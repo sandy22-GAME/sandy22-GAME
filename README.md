@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Santhosh!</h1>
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+# 👋 Hi there, I'm Santhosh!
+### 👨‍💻 Computer Science Engineering Student | Web Developer | AI Enthusiast
 
 ---
 
@@ -17,62 +15,24 @@ I am a passionate **Computer Science Engineering student** who enjoys building m
 
 ### 💻 Tech Stack & Toolkit
 
-<h4>🛠️ Languages</h4>
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-<h4>🗄️ Databases</h4>
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-<h4>⚙️ Tools & Platforms</h4>
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 📊 GitHub Analytics Dashboard
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://herokuapp.com" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="60%" />
-</p>
+* **🗣️ Languages:** HTML5 • C • C++ • Python • Java • SQL
+* **🗄️ Databases:** MySQL • Oracle • MongoDB
+* **⚙️ Tools & Platforms:** VS Code • Eclipse IDE • GitHub • LeetCode
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://instagram.com_._" target="_blank"><img src="https://shields.io" /></a>
-  <a href="mailto:sandykavitha22@gmail.com"><img src="https://shields.io" /></a>
-</p>
+* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 📸 **Instagram:** [@_._sandyzx_._](https://instagram.com_._)
+* 📧 **Email:** sandykavitha22@gmail.com
+* 🐙 **GitHub:** [://github.com](https://://github.com)
 
 ---
 
 ### 💡 Daily Dev Quote
 > "Code. Learn. Build. Repeat."
 
-<p align="center">
-  <img src="https://komarev.com" alt="Visitor Counter" />
-</p>
+<br />
 
 <p align="center">💎 Designed for excellence by Santhosh 💎</p>
